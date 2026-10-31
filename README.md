@@ -20,6 +20,6 @@
   <img src="assets/footer.svg" alt="A universe of ideas, in constant creation." width="100%">
 </picture>
 
-[GitHub](https://github.com/naveerashaik22-jpg) · [LinkedIn](https://www.linkedin.com/in/shaik-naveera-3b5042392) · [Email](mailto:naveerashaik22@gmail.com)
+[Portfolio](https://shaik-naveera-portfolio.vercel.app) · [GitHub](https://github.com/naveerashaik22-jpg) · [LinkedIn](https://www.linkedin.com/in/shaik-naveera-3b5042392) · [Email](mailto:naveerashaik22@gmail.com)
 
 </div>
