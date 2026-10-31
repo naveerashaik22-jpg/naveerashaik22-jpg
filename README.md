@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/about.svg">
-  <img src="assets/about.svg" alt="About me — Hey, I'm Naveera, a Computer Science undergraduate fascinated by AI and ML. Dream. Develop. Disrupt." width="100%">
+  <img src="assets/about.svg" alt="About me — Hey, I'm Naveera , a Computer Science undergraduate fascinated by AI and ML. Dream. Develop. Disrupt." width="100%">
 </picture>
 
 <picture>
