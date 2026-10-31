@@ -167,15 +167,15 @@ function banner() {
   <g opacity=".55">${starfield({ n: 46, w: W, h: 40, seed: 77, yMax: 1, tint: true }).replace(/cy="([\d.]+)"/g, (m, y) => `cy="${380 + +y * 36}"`).replace(/r="[\d.]+"/g, 'r="0.7"')}</g>
 
   <!-- title -->
-  <line x1="205" y1="190" x2="330" y2="190" stroke="url(#lineG)" stroke-width="1"/>
-  <line x1="870" y1="190" x2="995" y2="190" stroke="url(#lineGR)" stroke-width="1"/>
-  <text x="${cx + 12}" y="212" text-anchor="middle" font-family="${SERIF}" font-size="82" font-weight="500" letter-spacing="24" fill="url(#title)" filter="url(#glowT)">NØVERRA</text>
+  <line x1="95" y1="190" x2="170" y2="190" stroke="url(#lineG)" stroke-width="1"/>
+  <line x1="1030" y1="190" x2="1105" y2="190" stroke="url(#lineGR)" stroke-width="1"/>
+  <text x="${cx + 4}" y="208" text-anchor="middle" font-family="${SERIF}" font-size="58" font-weight="500" letter-spacing="8" fill="url(#title)" filter="url(#glowT)">HI THERE, IT'S NAVEERA</text>
   <text x="${cx + 6}" y="262" text-anchor="middle" font-family="${SANS}" font-size="15" font-weight="500" letter-spacing="9" fill="${C.star}" opacity=".85">EXPLORE · BUILD · INNOVATE</text>
 
   <rect width="${W}" height="${H}" fill="url(#vig)"/>
 </g>
 <rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="17.5" fill="none" stroke="url(#border)"/>`;
-  return wrap(W, H, 'NØVERRA — Explore, Build, Innovate', defs, body);
+  return wrap(W, H, "Hi there, it's Naveera — Explore, Build, Innovate", defs, body);
 }
 
 // ───────────────────────── ABOUT ─────────────────────────
