@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/banner.svg">
-  <img src="assets/banner.svg" alt="NØVERRA — Explore · Build · Innovate" width="100%">
+  <img src="assets/banner.svg" alt="NAVEERA — Explore · Build · Innovate" width="100%">
 </picture>
 
 <picture>
