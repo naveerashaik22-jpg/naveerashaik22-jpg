@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/banner.svg">
-  <img src="assets/banner.svg" alt="NAVEERA — Explore · Build · Innovate" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/banner.svg?v=2">
+  <img src="assets/banner.svg?v=2" alt="NAVEERA — Explore · Build · Innovate" width="100%">
 </picture>
 
 <picture>
