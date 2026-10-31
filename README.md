@@ -100,7 +100,7 @@ I'm always interested in technology, collaboration and innovative ideas.
 
 **Exploring possibilities beyond conventional boundaries.**
 
-</div>## Hi there 👋
+</div>
 
 <!--
 **naveerashaik22-jpg/naveerashaik22-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
